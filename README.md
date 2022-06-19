@@ -11,7 +11,7 @@ I have focused more on improving the UI
 
 link :(file:///C:/Users/avita/Downloads/Sparks-Foundation-main/docs/index.html)
 
-(file:///C:/Users/avita/Downloads/Sparks-Foundation-main/docs/index.html)
+file:///C:/Users/avita/Downloads/Sparks-Foundation-main/docs/index.html
 
 
 THANK YOU
