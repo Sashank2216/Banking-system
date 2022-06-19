@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# basic-banking-system
-=======
-<<<<<<< HEAD
-# basic-banking-system
-=======
-## Basic Banking System
+Basic Banking System
 I have created frontend of a basic banking system.
 I have focused more on improving the UI
 
