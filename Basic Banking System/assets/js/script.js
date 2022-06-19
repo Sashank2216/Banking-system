@@ -6,7 +6,7 @@ function sendMoney(){
    var enterName = document.getElementById("enterName").value;
    var enterAmount = parseInt(document.getElementById("enterAmount").value);
 
-   if (enterAmount > 10000) {
+   if (enterAmount > 5000) {
       alert("Insufficient Balance.")
    } else {
       var findUserBankAccount = enterName + "BankBalance";
